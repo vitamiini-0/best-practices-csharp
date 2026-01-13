@@ -1,0 +1,11 @@
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.AssemblyInfoInputs.cache
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.AssemblyInfo.cs
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.csproj.CoreCompileInputs.cache
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/bin/Debug/net10.0/BasicMath.deps.json
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/bin/Debug/net10.0/BasicMath.dll
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/bin/Debug/net10.0/BasicMath.pdb
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.dll
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/refint/BasicMath.dll
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/BasicMath.pdb
+/home/user/GitHub/markdown-best-practices/best-practices-csharp/BasicMath/obj/Debug/net10.0/ref/BasicMath.dll
